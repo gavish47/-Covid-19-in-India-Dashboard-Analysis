@@ -1,9 +1,9 @@
 
-# COVID-19 India Dashboard in Tableau
+# 🌍COVID-19 India Dashboard in Tableau
 
 The **COVID-19 India Dashboard** is an interactive visualization tool created using **Tableau**. It provides vital data and insights related to the COVID-19 pandemic in India, offering users a dynamic way to analyze and understand the pandemic's impact across the country.  
 
-## Key Features  
+## 🔑Key Features  
 
 - **ICMR Testing Labs in Each State**  
   - Displays detailed information on ICMR-approved testing labs, including their locations and testing capacities in each state.  
@@ -23,11 +23,11 @@ The **COVID-19 India Dashboard** is an interactive visualization tool created us
 - **Age Group Details**  
   - Analyzes COVID-19 cases and deaths across various age groups, helping to identify vulnerable demographics.  
 
-## Built With  
+## 👨‍💻Built With  
 
 - **Tableau**: For creating the interactive dashboards and data visualizations.  
 
-## Usage  
+## 🤯Usage  
 
 This dashboard is designed for:  
 - Public health professionals  
@@ -35,18 +35,18 @@ This dashboard is designed for:
 - Policymakers  
 - General public interested in COVID-19 statistics  
 
-## Data Sources  
+## 🔗Data Sources  
 •Link 1: https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
 
 •Link 2: https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data
 
 •Link 3: https://geographicalanalysis.com/download-free-india-shapefile-including-kashmir-and-ladakh/ 
 
-## Screenshots  
+## 📷Screenshots  
 
 ![image](https://github.com/user-attachments/assets/dd161c52-d6a3-4f13-8e63-ae11bdc77c8a)
 
-## Conclusion  
+## 🏆Conclusion  
 
 The **COVID-19 India Dashboard** is a powerful tool for tracking and analyzing the pandemic's impact across India. Created in **Tableau**, this dashboard leverages the power of interactive visualizations to provide users with valuable insights into testing, case distribution, vaccination progress, and demographic vulnerabilities. Whether you're a researcher, policymaker, or an informed citizen, this dashboard is an essential resource for staying updated on COVID-19 trends.  
 
