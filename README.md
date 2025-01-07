@@ -50,6 +50,3 @@ This dashboard is designed for:
 
 The **COVID-19 India Dashboard** is a powerful tool for tracking and analyzing the pandemic's impact across India. Created in **Tableau**, this dashboard leverages the power of interactive visualizations to provide users with valuable insights into testing, case distribution, vaccination progress, and demographic vulnerabilities. Whether you're a researcher, policymaker, or an informed citizen, this dashboard is an essential resource for staying updated on COVID-19 trends.  
 
----  
-
-Let me know if you need further refinements!
