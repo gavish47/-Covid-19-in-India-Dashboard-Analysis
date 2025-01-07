@@ -1,11 +1,7 @@
-# Covid-19-in-India-Dashboard-Analysis
-Here’s the **README** updated with all the additional sections you requested:  
 
----
+# COVID-19 India Dashboard in Tableau
 
-# COVID-19 India Dashboard  
-
-The **COVID-19 India Dashboard** is a comprehensive tool designed to provide vital data and insights related to the COVID-19 pandemic in India. This dashboard aggregates and visualizes critical information to help users analyze and understand the pandemic's impact across the country.  
+The **COVID-19 India Dashboard** is an interactive visualization tool created using **Tableau**. It provides vital data and insights related to the COVID-19 pandemic in India, offering users a dynamic way to analyze and understand the pandemic's impact across the country.  
 
 ## Key Features  
 
@@ -27,6 +23,10 @@ The **COVID-19 India Dashboard** is a comprehensive tool designed to provide vit
 - **Age Group Details**  
   - Analyzes COVID-19 cases and deaths across various age groups, helping to identify vulnerable demographics.  
 
+## Built With  
+
+- **Tableau**: For creating the interactive dashboards and data visualizations.  
+
 ## Usage  
 
 This dashboard is designed for:  
@@ -36,35 +36,14 @@ This dashboard is designed for:
 - General public interested in COVID-19 statistics  
 
 ## Data Sources  
-
-The dashboard integrates data from reliable and official sources, including:  
-- Indian Council of Medical Research (ICMR)  
-- State health departments  
-- Other public health authorities  
+•Link 1: https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
+•Link 2: https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data
+•Link 3: https://geographicalanalysis.com/download-free-india-shapefile-including-kashmir-and-ladakh/ 
 
 ## Screenshots  
 
-Below are some screenshots of the **COVID-19 India Dashboard** showcasing its features:  
-
-### ICMR Testing Labs in Each State  
-![ICMR Testing Labs](path-to-screenshot-1)  
-
-### COVID-19 Cases by State  
-![Cases by State](path-to-screenshot-2)  
-
-### First vs. Second Dose Administration  
-![Vaccination Data](path-to-screenshot-3)  
-
-### Statewise Testing Details  
-![Testing Details](path-to-screenshot-4)  
-
-### Gender Distribution (Without Missing Values)  
-![Gender Data](path-to-screenshot-5)  
-
-### Age Group Details  
-![Age Group Details](path-to-screenshot-6)  
-
-*(Replace `path-to-screenshot-X` with the actual image file paths or URLs to screenshots.)*  
+![image](https://github.com/user-attachments/assets/dd161c52-d6a3-4f13-8e63-ae11bdc77c8a)
+  
 
 ## Contributing  
 
@@ -75,8 +54,8 @@ Contributions are welcome! If you’d like to improve the dashboard or add new f
 
 ## Conclusion  
 
-The **COVID-19 India Dashboard** is a powerful tool for tracking and analyzing the pandemic's impact across India. By offering valuable insights into testing, case distribution, vaccination progress, and demographic vulnerabilities, the dashboard empowers users to make data-driven decisions. Whether you're a researcher, policymaker, or an informed citizen, this dashboard is an essential resource for staying updated on COVID-19 trends.  
+The **COVID-19 India Dashboard** is a powerful tool for tracking and analyzing the pandemic's impact across India. Created in **Tableau**, this dashboard leverages the power of interactive visualizations to provide users with valuable insights into testing, case distribution, vaccination progress, and demographic vulnerabilities. Whether you're a researcher, policymaker, or an informed citizen, this dashboard is an essential resource for staying updated on COVID-19 trends.  
 
 ---  
 
-Let me know if you need further changes or assistance with formatting!
+Let me know if you need further refinements!
