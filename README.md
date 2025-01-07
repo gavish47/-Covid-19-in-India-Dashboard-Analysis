@@ -37,20 +37,14 @@ This dashboard is designed for:
 
 ## Data Sources  
 •Link 1: https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
+
 •Link 2: https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data
+
 •Link 3: https://geographicalanalysis.com/download-free-india-shapefile-including-kashmir-and-ladakh/ 
 
 ## Screenshots  
 
 ![image](https://github.com/user-attachments/assets/dd161c52-d6a3-4f13-8e63-ae11bdc77c8a)
-  
-
-## Contributing  
-
-Contributions are welcome! If you’d like to improve the dashboard or add new features:  
-1. Fork the repository.  
-2. Make your changes.  
-3. Submit a pull request for review.  
 
 ## Conclusion  
 
